@@ -1,0 +1,5 @@
+C:\Users\filip\source\repos\Filib\Filib\bin\Debug\Filib.dll
+C:\Users\filip\source\repos\Filib\Filib\bin\Debug\Filib.pdb
+C:\Users\filip\source\repos\Filib\Filib\obj\Debug\Filib.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\Filib\Filib\obj\Debug\Filib.dll
+C:\Users\filip\source\repos\Filib\Filib\obj\Debug\Filib.pdb
